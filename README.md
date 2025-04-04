@@ -68,8 +68,6 @@ I'm a Computer Science student at the University of California, Davis, with a pa
 - LinkedIn: [linkedin.com/in/raquib-alam](https://linkedin.com/in/raquib-alam)
 - Phone: (858) 943-1836
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=raquibalam&show_icons=true&theme=radical)
 
 ## 🎯 Goals for 2024-2025
 - Contribute to open-source machine learning projects
