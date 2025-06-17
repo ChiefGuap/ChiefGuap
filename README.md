@@ -41,6 +41,11 @@ I'm a Computer Science student at the University of California, Davis, with a pa
 
 ## 🚀 Projects
 
+### Baddi Coach - Badminton Coach
+- Built for the UC Davis Club Badmintion team aimed at improving one's serve and player movement on the court
+- Live feedback based on player's stance and an AI chatbot aimed to naswering any badmintion related question
+- Be able to break down game film and learn from your own games 
+
 ### Player Props - 2024 HackDavis Hackathon
 - Web-based application for NBA player analysis
 - Tech stack: Flask, Matplotlib, Pandas, NumPy, Scikit-Learn, HTML, CSS, JavaScript
