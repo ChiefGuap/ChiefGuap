@@ -74,8 +74,9 @@ I'm a Computer Science student at the University of California, Davis, with a pa
 - Phone: (858) 943-1836
 
 
-## 🎯 Goals for 2024-2025
+## 🎯 Goals for 2025-2026
 - Contribute to open-source machine learning projects
+- Develop more sports analytical projects through computer vision (Utilzing YoloV8)
 - Publish a research paper in AI/ML
 - Secure an internship in software engineering or data science
 
