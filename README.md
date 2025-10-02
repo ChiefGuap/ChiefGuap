@@ -5,10 +5,12 @@ I'm a Computer Science student at the University of California, Davis, with a pa
 
 - 🏫 GPA: 3.60/4.0
 - 🏆 Dean's Honor List
-- 📊 Machine Learning Researcher at LARA
-- 🏀 Software Engineer at Aggie Sports Analytics
-- 🚀 Director of Engineering at Product Space
-- 🌐 Former Marketing Director at Google Developer Student Club
+- 🚀 prev. Systems Engineering Intern @ Nothrop Grumman 
+- 📊 Machine Learning Researcher @ LARA
+- 🏀 Software Engineer @ Aggie Sports Analytics
+- 🚀 Vice President of Engineering @ Product Space
+- 🌐 Marketing Director @ HackDavis
+- 🌐 Former Marketing Director @ Google Developer Student Club
 
 ## 🛠 Technical Skills
 
