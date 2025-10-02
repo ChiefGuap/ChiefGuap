@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Raquib Alam (ChiefGuap)
 
 ## 🎓 About Me
-I'm a Computer Science student at the University of California, Davis, with a passion for machine learning, sports analytics, and software development. Expected graduation: May 2026.
+I'm a Computer Science student at the University of California, Davis, with a passion for machine learning, sports analytics, and software development. Expected graduation: June 2027.
 
 - 🏫 GPA: 3.60/4.0
 - 🏆 Dean's Honor List
