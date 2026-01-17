@@ -43,27 +43,56 @@ I'm a Computer Science student at the University of California, Davis, with a pa
 
 ## 🚀 Projects
 
+### HIKE: AI Trade Chatbot | Python, LangChain, RAG, Streamlit January 2024 – March 2024
+• Built a RAG-based conversational agent using LangChain and FAISS to provide real-time fantasy sports advice, creating a robust
+retrieval pipeline that reduces hallucination by anchoring responses in live news and injury reports.
+• Engineered a low-latency Streamlit frontend coupled with time-series forecasting (Statsmodels ARIMA) on 5+ seasons of NBA and
+NFL data to project player performance trends.
+• Deployed the application to a user base of 30+ active monthly users and conducted A/B testing with 50+ beta testers to refine
+the recommendation algorithm based on user feedback.
+• Awarded 1st Place in the Winter 2024 ASA Case Competition for innovation in data-driven UI and AI integration.
+
+
+### Brain Cancer Detection AI | React, Flask, TensorFlow, Supabase March 2024 – June 2024
+• Developed a full-stack web application capable of classifying brain MRI scans into four tumor types (glioma, meningioma, pituitary,
+healthy) using a TensorFlow/Keras CNN deployed via a RESTful Flask API.
+• Engineered a modular React frontend featuring drag-and-drop MRI upload, color-coded prediction visualization, and secure user
+authentication/persistence using Supabase.
+• Integrated Google Gemini API to generate personalized, context-aware treatment recommendations based on patient vitals.
+• Authored a technical research report and conducted user testing with 15 American Cancer Society club members, validating the
+tool’s utility for educational and preliminary diagnostic contexts
+
+### NBA2k25: Draft Analyzer — Python, Flask, React, Pandas, BeautifulSoup March 2024 – June 2024
+• Developed a full-stack web application using Flask to serve a REST API with React as the frontend.
+• Implemented a mock draft board that streams live player updates and information.
+• Leveraged historical draft patterns, player biometrics, current league data, and Twitter sentiment analysis to build an interactive UI
+showing player rankings and projected draft slots.
+• Scraped NBA.com and prospect sites to create clean CSV datasets for ML preprocessing.
+
+
+### AggieAccess — Python, Scikit-learn, Flask/FastAPI, React/Next.js, Supabase March 2025
+• Conducted surveys and user interviews with 55 + UC Davis students during the SacHacks hackathon to validate pain points around
+degree tracking and course similarity.
+• Built a TF-IDF + cosine-similarity pipeline in Scikit-learn to recommend courses based on semantic similarity of descriptions and degree
+requirements.
+• Developed a Schedule Builder–style React/Next.js frontend that displays personalized course suggestions, real-time unit tracking, waitlist
+status, and core/GE requirement fulfillment.
+• Integrated backend APIs (Flask/FastAPI) with Supabase for storing user histories and MyDegree/OASIS data aggregation, enabling
+end-to-end personalized scheduling.
+• Ran usability tests on early UCD students cohorts—iterated on UI flow and info hierarchy based on System Usability Scale feedback,
+achieving a 4.2/5 overall satisfaction score
+
 ### Baddi Coach - Badminton Coach
-- Built for the UC Davis Club Badmintion team aimed at improving one's serve and player movement on the court
-- Live feedback based on player's stance and an AI chatbot aimed to naswering any badmintion related question
-- Be able to break down game film and learn from your own games 
+• Led a cross-functional squad of 5 (UX, backend, data) to deliver a player-development dashboard for UC Davis Badminton Club, driving
+a 15% increase in match win rates and logging 30 + daily user interactions
+• Ran 12 targeted user interviews, synthesized findings into prioritized roadmaps in Jira/Kanban, and built two high-fidelity A/B
+prototypes on Figma and tested with 10 beta users on a ngrok public localhost server—iterating weekly on features
+• Integrated performance data ingestion from Yolov8 CV models (shuttlecock and pose detection) to auto-generate player insights and
+weekly progress reports
 
-### Player Props - 2024 HackDavis Hackathon
-- Web-based application for NBA player analysis
-- Tech stack: Flask, Matplotlib, Pandas, NumPy, Scikit-Learn, HTML, CSS, JavaScript
+### Divvit - Mobile App Development
+• Mobile FinTech & GenAI (Divvit Project): [React Native, TypeScript, Gemini API, Supabase] Architected a cross-platform bill-splitting app. Engineered a multimodal pipeline using Gemini API to parse physical receipts into itemized digital objects. Implemented algorithmic tax/tip distribution and Venmo/CashApp deep-linking for seamless P2P transaction settlement.
 
-### NBA 2k25 Draft Analyzer
-- Led a team to build a web app predicting the 2024 NBA Draft order
-- Developed a Naive Bayes model for draft predictions
-- Tech stack: Flask, React.js, Figma
-
-### HIKE: Fantasy Sports Chatbot
-- Implemented LLM model through LangChain for in-depth player analysis
-- 1st place in the 2024 Aggie Sports Analytics Case Competition
-
-### Team Equation Malware Detection
-- Created an application to detect specific malware within uploaded files
-- Utilized Linux and Windows VMs, EDA, and TensorFlow
 
 ## 🌱 I'm currently learning
 - Advanced machine learning techniques
