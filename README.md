@@ -1,115 +1,110 @@
-# 👋 Hi there, I'm Raquib Alam (ChiefGuap)
+<h1 align="center">Hey, I'm Raquib 👋</h1>
+<h3 align="center">CS @ UC Davis · ex-Google · ML researcher · builder of things people actually use</h3>
 
-## 🎓 About Me
-I'm a Computer Science student at the University of California, Davis, with a passion for machine learning, sports analytics, and software development. Expected graduation: June 2027.
+<p align="center">
+  <a href="https://raquib-alam.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chiefguap"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rmalam@ucdavis.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 
-- 🏫 GPA: 3.60/4.0
-- 🏆 Dean's Honor List
-- 🚀 prev. Systems Engineering Intern @ Nothrop Grumman 
-- 📊 Machine Learning Researcher @ LARA
-- 🏀 Software Engineer @ Aggie Sports Analytics
-- 🚀 Vice President of Engineering @ Product Space
-- 🌐 Marketing Director @ HackDavis
-- 🌐 Former Marketing Director @ Google Developer Student Club
+---
 
-## 🛠 Technical Skills
+### ⚡ TL;DR
 
-### Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+```yaml
+name:      Raquib Alam
+school:    UC Davis — B.S. Computer Science (June 2027)
+minor:     Electrical Engineering & Technology Management
+now:       ML Research @ LARA · Co-founder @ Divvit · VP Eng @ Product Space
+before:    SWE Intern @ Google (YouTube) · Systems Eng Intern @ Northrop Grumman
+into:      reinforcement learning · robotics · computer vision · startups
+```
 
-### Frameworks & Libraries
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
-![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+---
 
-### Developer Tools
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Google Suite](https://img.shields.io/badge/-Google%20Suite-4285F4?style=flat-square&logo=google&logoColor=white)
+### 💼 Experience
 
-## 🚀 Projects
+**🟥 Google — Software Engineering Intern, YouTube Youth Infrastructure** · *Summer 2026*
+Backend microservices for youth supervision, observability, and global privacy compliance. Built a targeted mobile alert system reaching **100M+ eligible teens**, compliance audit telemetry across core infra, and a real-time pipeline that detects and alerts on unauthorized changes to restricted accounts.
 
-### HIKE: AI Trade Chatbot | Python, LangChain, RAG, Streamlit January 2024 – March 2024
-• Built a RAG-based conversational agent using LangChain and FAISS to provide real-time fantasy sports advice, creating a robust
-retrieval pipeline that reduces hallucination by anchoring responses in live news and injury reports.
-• Engineered a low-latency Streamlit frontend coupled with time-series forecasting (Statsmodels ARIMA) on 5+ seasons of NBA and
-NFL data to project player performance trends.
-• Deployed the application to a user base of 30+ active monthly users and conducted A/B testing with 50+ beta testers to refine
-the recommendation algorithm based on user feedback.
-• Awarded 1st Place in the Winter 2024 ASA Case Competition for innovation in data-driven UI and AI integration.
+**🛰️ Northrop Grumman — Software Systems Engineering Intern** · *Summer 2025*
+Production automation suites (Python/Bash/PowerShell) for mission systems — **+55% operational throughput** — plus a telemetry system for network throughput and congestion analysis.
 
+**🤖 Laboratory for AI, Robotics & Automation (LARA) — ML Researcher** · *2024 – Present*
+Curriculum-learning PPO in PyTorch: **30% faster convergence, 45% higher grasp success** on dexterity benchmarks. Distributed training on 8× A100s, and a ZeroMQ/UDP middleware bridging Pupil Core eye-tracking to LabVIEW for closed-loop control. Currently building real-time pupil and laser-spot tracking on Pupil Labs eye cameras, benchmarking centroid vs. blob detection for speed, precision, and accuracy — see **[Pupil-Tracking](https://github.com/ChiefGuap/Pupil-Tracking-)**.
 
-### Brain Cancer Detection AI | React, Flask, TensorFlow, Supabase March 2024 – June 2024
-• Developed a full-stack web application capable of classifying brain MRI scans into four tumor types (glioma, meningioma, pituitary,
-healthy) using a TensorFlow/Keras CNN deployed via a RESTful Flask API.
-• Engineered a modular React frontend featuring drag-and-drop MRI upload, color-coded prediction visualization, and secure user
-authentication/persistence using Supabase.
-• Integrated Google Gemini API to generate personalized, context-aware treatment recommendations based on patient vitals.
-• Authored a technical research report and conducted user testing with 15 American Cancer Society club members, validating the
-tool’s utility for educational and preliminary diagnostic contexts
+**🧩 Product Space @ UC Davis — VP of Engineering & Co-Founder** · *2024 – Present*
+Built the fellowship platform (React + Supabase) serving 100+ applicants, cut CI/CD from hours → minutes, and mentor **35+ student engineers**.
 
-### NBA2k25: Draft Analyzer — Python, Flask, React, Pandas, BeautifulSoup March 2024 – June 2024
-• Developed a full-stack web application using Flask to serve a REST API with React as the frontend.
-• Implemented a mock draft board that streams live player updates and information.
-• Leveraged historical draft patterns, player biometrics, current league data, and Twitter sentiment analysis to build an interactive UI
-showing player rankings and projected draft slots.
-• Scraped NBA.com and prospect sites to create clean CSV datasets for ML preprocessing.
+---
 
+### 🚀 Featured Projects
 
-### AggieAccess — Python, Scikit-learn, Flask/FastAPI, React/Next.js, Supabase March 2025
-• Conducted surveys and user interviews with 55 + UC Davis students during the SacHacks hackathon to validate pain points around
-degree tracking and course similarity.
-• Built a TF-IDF + cosine-similarity pipeline in Scikit-learn to recommend courses based on semantic similarity of descriptions and degree
-requirements.
-• Developed a Schedule Builder–style React/Next.js frontend that displays personalized course suggestions, real-time unit tracking, waitlist
-status, and core/GE requirement fulfillment.
-• Integrated backend APIs (Flask/FastAPI) with Supabase for storing user histories and MyDegree/OASIS data aggregation, enabling
-end-to-end personalized scheduling.
-• Ran usability tests on early UCD students cohorts—iterated on UI flow and info hierarchy based on System Usability Scale feedback,
-achieving a 4.2/5 overall satisfaction score
+| Project | What it is | Stack |
+|---|---|---|
+| 🧾 **[Divvit](https://github.com/ChiefGuap/divvit2.0)** | AI bill-splitting app (UC Davis Entrepreneurship in Residence). Snap a receipt → Gemini parses it into line items at **95%+ accuracy**, then friends claim items in real time on their own phones. **85+ beta testers.** | React Native · Expo · FastAPI · Cloud Run · Supabase |
+| 🏆 **[Aetheris V.O.](https://github.com/savir2010/aetheris)** | **1st place @ [WeaveHacks 3](https://cerebralvalley.ai/e/weave-hacks-3-self-improving-agents-hackathon-with-weights-and-biases-7014fe80/hackathon/gallery/51) (Weights & Biases, SF).** A voice + visual AI guide that sits on top of AWS/GCP consoles and walks you through them with live on-screen annotations. Self-improving RAG over IAM rules, SAM-based screen segmentation. [▶ Demo](https://youtu.be/tfouA9-LRs0) | Python · Pipecat · Redis Vector · SAM · Docker |
+| 🏀 **[HIKE](https://github.com/AggieSportsAnalytics/FantasyChatbot)** | Fantasy football & basketball trade advisor: RAG over player data and injury reports, plus ARIMA forecasting across 5 seasons. **1st place, ASA Case Competition (Winter 2024).** [▶ Demo](https://www.youtube.com/watch?v=c6inhEnC4-I) | LangChain · FAISS · Statsmodels · Streamlit |
+| 🏸 **[Baddi Coach](https://github.com/Krigupt/TeamBaddiCoach)** | YOLOv8 shuttlecock + pose detection feeding a player-development dashboard for UC Davis Badminton — **+15% match win rate**. | YOLOv8 · Python · React |
+| 🧠 **Brain Tumor Classifier** | Full-stack MRI classifier (glioma / meningioma / pituitary / healthy) with Gemini-generated context, user-tested with 15 ACS club members. | TensorFlow · Flask · React · Supabase |
+| 🎓 **AggieAccess** | SacHacks course recommender built from 55+ student interviews — TF-IDF similarity + degree tracking. **4.2/5 SUS score.** | scikit-learn · FastAPI · Next.js |
+| 🏀 **[NBA Draft Analyzer](https://github.com/AggieSportsAnalytics/NBADraft)** | Predicts a full NBA mock draft: scraped prospect stats, sentiment analysis on team needs, and a Naive Bayes model matching players to teams. [▶ Demo](https://youtu.be/ZIP461Y1W58) | Python · scikit-learn · BeautifulSoup · React |
 
-### Baddi Coach - Badminton Coach
-• Led a cross-functional squad of 5 (UX, backend, data) to deliver a player-development dashboard for UC Davis Badminton Club, driving
-a 15% increase in match win rates and logging 30 + daily user interactions
-• Ran 12 targeted user interviews, synthesized findings into prioritized roadmaps in Jira/Kanban, and built two high-fidelity A/B
-prototypes on Figma and tested with 10 beta users on a ngrok public localhost server—iterating weekly on features
-• Integrated performance data ingestion from Yolov8 CV models (shuttlecock and pose detection) to auto-generate player insights and
-weekly progress reports
+<sub>More in my <a href="https://github.com/ChiefGuap?tab=repositories">repositories →</a></sub>
 
-### Divvit - Mobile App Development
-• Mobile FinTech & GenAI (Divvit Project): [React Native, TypeScript, Gemini API, Supabase] Architected a cross-platform bill-splitting app. Engineered a multimodal pipeline using Gemini API to parse physical receipts into itemized digital objects. Implemented algorithmic tax/tip distribution and Venmo/CashApp deep-linking for seamless P2P transaction settlement.
+---
 
+### 🛠️ Tech I Use
 
-## 🌱 I'm currently learning
-- Advanced machine learning techniques
-- Full-stack web development
-- Sports analytics and data visualization
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-## 📫 How to reach me
-- Email: rmalam@ucdavis.edu
-- LinkedIn: [linkedin.com/in/raquib-alam](https://linkedin.com/in/raquib-alam)
-- Phone: (858) 943-1836
+**ML / AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
+**Web & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-## 🎯 Goals for 2025-2026
-- Contribute to open-source machine learning projects
-- Develop more sports analytical projects through computer vision (Utilzing YoloV8)
-- Publish a research paper in AI/ML
-- Secure an internship in software engineering or data science
+**Infra & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-⭐️ From [raquibalam]()
+---
 
+### 🌱 Right Now
+
+- 🧾 Growing **Divvit** and exploring what it becomes next
+- 🦾 Scaling RL training for robotic grasping and working toward a first publication
+- 👁️ Pupil detection on grayscale cameras — comparing classical, hybrid, and deep learning approaches
+- 🎓 Recruiting for **new-grad SWE / ML roles (2027)** — let's talk
+
+### 🏅 Around Campus
+
+Dean's Honor List · VP of Engineering and Co-Founder of Product Space · Marketing Director @ HackDavis · ex-PM & SWE @ [Aggie Sports Analytics](https://aggiesportsanalytics.com) · ex-Marketing Director @ GDSC
+
+---
+
+<p align="center"><i>Always down to chat about RL, robotics, startups, or a good badminton rally 🏸</i></p>
